@@ -6,6 +6,16 @@
 //  Copyright (c) 2014 appguys.biz. All rights reserved.
 //
 
+///////////////////////////
+////
+////
+////
+//// TUTORIAL URL: www.appcoda.com/ios-programming-sidebar-navigation-menu/
+////
+////
+////
+//////////////////////////
+
 #import "ViewController.h"
 #import "SWRevealViewController.h"
 
